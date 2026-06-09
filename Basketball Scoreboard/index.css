@@ -1,0 +1,78 @@
+
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.home-section h3, .guest-section h3 {
+/* board-title-home */
+font-family: 'Verdana';
+text-align: center;
+font-style: normal;
+font-weight: 700;
+font-size: 5rem;
+margin-bottom: 2.5rem;
+/* identical to box height, or 90% */
+color: #EEEEEE;
+}
+
+
+.score {
+    border-radius: 15px;
+    background-color: #080001;
+    width: 20rem;
+    height: 17rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.score span {
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif;                               
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10rem;
+    padding: 0;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.plus1, .plus2, .plus3 {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-style: normal;
+    width: 5rem;
+    height: 5rem;
+    font-size: 2rem;
+    color: #9AABD8;
+    background-color: transparent;
+    border-radius: 15px;
+    border: 0.2rem solid #9AABD8;
+    cursor: pointer;
+}
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+}
+
+.reset {
+    display: block;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-style: normal;
+    width: 10rem;
+    height: 5rem;
+    font-size: 2rem;
+    color: #9AABD8;
+    background-color: transparent;
+    border-radius: 15px;
+    border: 0.2rem solid #9AABD8;
+    cursor: pointer;
+    margin: 2rem auto;
+}
