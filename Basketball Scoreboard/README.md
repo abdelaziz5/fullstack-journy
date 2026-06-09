@@ -3,7 +3,7 @@
 A simple, clean, and responsive web-based Basketball Scoreboard designed to track scores for both **HOME** and **GUEST** teams. This project was built to practice foundational web development skills, semantic layout structuring, and dynamic DOM manipulation.
 
 ## 🌐 LIVE DEMO
-Access the live [Basketball Scoreboard](https://6a289c29ea2ef0bef1e43a18--thunderous-concha-d29933.netlify.app/) directly on Netlify.
+Access the live [Basketball Scoreboard](https://6a289c29ea2ef0bef1e43a18--basketball-scoreboard-abdelaziz5.netlify.app/) directly on Netlify.
 
 ---
 
